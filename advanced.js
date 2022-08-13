@@ -52,3 +52,4 @@ async function firstSixIncomplete (completed){
     console.log(todos)
 }
 firstSixIncomplete(6)
+// to be continued
