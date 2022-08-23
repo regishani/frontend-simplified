@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid darkblue;
+    border-right: 100px solid transparent;
+    border-left: 100px solid transparent;
+}
